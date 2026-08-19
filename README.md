@@ -1,4 +1,4 @@
-# github-first.try
+# Mango
 
 is an edible stone fruit produced by the tropical tree Mangifera indica. It originated in the northeastern part of the South Asia, in what is now Bangladesh, northeastern India and Myanmar. M. indica has been cultivated in South and Southeast Asia since ancient times, resulting in two modern mango cultivar lineages: the "Indian" and the "Southeast Asian" types. Other species in the genus Mangifera also produce edible fruit called "mangoes", most of which are found in the Malesian ecoregion.
 
